@@ -53,3 +53,5 @@ while True:
         break
 
 cv.destroyAllWindows()
+
+# chiaki
